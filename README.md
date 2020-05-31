@@ -1,1 +1,3 @@
-# ideaxa
+---
+permalink: /index.html
+---
