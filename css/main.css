@@ -1725,12 +1725,12 @@ h6 {
 }
 
 .single-slide {
-  padding-top: 80px;
+  padding-top: 120px;
 }
 
 @media (max-width: 991px) and (min-width: 425px) {
   .single-slide {
-    padding-top: 120px;
+    padding-top: 140px;
   }
 }
 
